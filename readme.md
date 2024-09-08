@@ -23,7 +23,7 @@ Information Security professional based in Vancouver, BC.
 - Developed a Standard Operating Procedures for the Lead Advisor role.
 
 **Security Operations-System Administrator** @ [UBC CISO](https://cio.ubc.ca/information-security) *(March 2019-Present)*
- - Operations Lead.
+ - Security Operations Lead.
  - Managed 30,000 endpoints using Endpoint Detection & Response (EDR) platforms.
  - Triaged security events that occur in EDR consoles.
  - Used sandbox environments to analyze URLs and malware samples.
