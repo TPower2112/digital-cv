@@ -1,7 +1,7 @@
 # Tom Power, B.A., CISSP
 Information Security professional based in Vancouver, BC.
 
- - Passionate about helping others, learning, and sharing what I know through technical documentation.
+ - Passionate about automation, helping others, learning, and sharing what I know through technical documentation.
  - Automation and Threat Intelligence Lead for Security Operations @ UBC.
  - Build workflows to automate the blocking of IOCs.
  - Triage security events in the CrowdStrike Falcon Platform.
