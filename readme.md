@@ -11,7 +11,7 @@ Information Security professional based in Vancouver, BC.
 #### [Email](mailto:thomasedwardpower@gmail.com)/[LinkedIn](https://www.linkedin.com/in/thomasedwardpower/)/[GitHub](https://github.com/TPower2112)
 
 ### 👨‍💻Technical Experience
-**Security Operations-Cybersecurity Analyst** @[UBC CISO](https://cio.ubc.ca/information-security) *(July 2023-Present)*
+**Security Operations-Cybersecurity Analyst II** @[UBC CISO](https://cio.ubc.ca/information-security) *(July 2023-Present)*
 - Threat Intelligence and Automation Lead.
 - Building a threat intel system leveraging open source solutions such as [MISP](https://github.com/MISP/MISP) and [DFIR-IRIS](https://github.com/dfir-iris/iris-web).
 - Building automated workflows using [Tines](https://www.tines.com/).
